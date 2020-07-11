@@ -46,6 +46,8 @@ Disadvantage
 PCA with Kmeans
 Reduced features into three components using dimensionality reduction technique
 
+![](Images/Kmeans Result with PCA_component1_2.png)
+
 POSITIONING
 Here data is a transaction based having details about 500 uniques individuals having details of purchasing on a daily basis
 1. Purchase Probability
