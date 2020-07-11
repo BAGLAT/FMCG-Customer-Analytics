@@ -44,7 +44,7 @@ Disadvantage
 2. We have to choose inital number of clusters by ourselves
 
 PCA with Kmeans
-Reduced features into three components using dimensionality reduction technique
+Reduced features into three components using dimensionality reduction technique.
 Below is the output of segmentation using Component 1 and Component 2
 
 ![](Images/Kmeans_Result_PCA_component1_2.png)
